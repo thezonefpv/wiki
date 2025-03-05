@@ -1,0 +1,6 @@
+[book]
+authors = ["nuuls"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Zone Wiki"
