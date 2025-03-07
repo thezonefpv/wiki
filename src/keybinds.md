@@ -46,6 +46,6 @@ Please double check if there is something being sent from your Radio when pressi
 
 If that works, you can enable the Channel monitor in-game using the command
 
-`/debug channels`
+`/debugger`
 
 It will show you all the channels the game is receiving and their corresponding values.
