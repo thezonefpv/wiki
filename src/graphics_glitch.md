@@ -1,6 +1,6 @@
 # Graphics Glitch
 
-On some graphics cards and driver combinations (mostly AMD),
+On some GPU and driver combinations (mostly AMD),
 you might get glitched out graphics when trying to load a map.
 
 <img src="https://i.nuuls.com/jVmhr.png">
