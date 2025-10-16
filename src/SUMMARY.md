@@ -9,4 +9,7 @@
   - [Checkpoints / Respawn](./saveloc.md)
 
 - [Common Issues](./common_issues.md)
+
   - [Graphics Glitch](./graphics_glitch.md)
+
+- [Custom maps](./custom_maps.md)
