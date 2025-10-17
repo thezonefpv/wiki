@@ -13,3 +13,4 @@
   - [Graphics Glitch](./graphics_glitch.md)
 
 - [Custom maps](./custom_maps.md)
+  - [Blender Basics](./blender_basics.md)
